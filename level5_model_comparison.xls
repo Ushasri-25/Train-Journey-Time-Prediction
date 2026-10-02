@@ -1,0 +1,3 @@
+Model,Features,MAE,RMSE
+Basic Model,Total_Distance,168.80201669299055,247.05944958215466
+Improved Model,Total_Distance + Number_of_Stops,152.21215044404454,237.38671754227823
