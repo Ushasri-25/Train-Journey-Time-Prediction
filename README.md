@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚆 Machine Learning-Based Train Journey Time Prediction System
 
 ## 📌 Project Overview
@@ -115,3 +116,6 @@ Train_Journey_Time_Prediction/
 ├── Level_3_EDA.ipynb
 ├── Level_4_Model_Training.ipynb
 └── Level_5_Model_Comparison.ipynb
+=======
+# Train-Journey-Time-Prediction
+>>>>>>> e72502c547063aa484f7d76edae054d042ff6e14
